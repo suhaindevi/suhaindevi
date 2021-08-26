@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suhaindevi
+- 👋 Hi, I’m @sushaindevi
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning btech in cse.
 - 💞️ I’m looking to collaborate on ...
